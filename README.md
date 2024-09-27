@@ -12,3 +12,4 @@ hahah
 =======
 nano README.md!
 >>>>>>> ffba195... add sth new
+!!!!!!!kfc
